@@ -1,5 +1,4 @@
 # ---- Funciones provistas (NO modificar) ----
-from operator import truediv
 
 def is_even(n):
     """Dado un número entero n, retorna True si es par, False si es impar."""
