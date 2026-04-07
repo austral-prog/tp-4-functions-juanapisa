@@ -1,5 +1,4 @@
 # Replace the "ANSWER HERE" for your answer
-from idlelib.replace import replace
 
 def roots(a, b, c):
     r1 = (-b + (b ** 2 - 4 * a * c) ** 0.5) / 2 * a
